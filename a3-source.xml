@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="a3-styling.xsl"?>
+<Colleges>
+  <cd>
+    <type>College</type>
+    <name>NIT Jalandhar</name>
+    <cgpa>7.9</cgpa>
+  </cd>
+  <cd>
+    <type>12th</type>
+    <name>Seth hukum chand S.D Public school </name>
+    <cgpa>8.2</cgpa>
+  </cd>
+  <cd>
+    <type>10th</type>
+    <name>Swami sant dass public school</name>
+    <cgpa>10</cgpa>
+  </cd>
+</Colleges>
